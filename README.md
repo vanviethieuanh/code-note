@@ -1,2 +1,2 @@
 # code-note
-A Azure DevOps like note manager extension for VS Code
+An Azure DevOps like note manager extension for VS Code
